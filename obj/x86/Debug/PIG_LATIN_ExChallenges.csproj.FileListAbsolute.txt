@@ -1,0 +1,6 @@
+/Users/Noha/Desktop/Capstone/PIG_LATIN_ExChallenges/PIG_LATIN_ExChallenges/bin/Debug/PIG_LATIN_ExChallenges.exe
+/Users/Noha/Desktop/Capstone/PIG_LATIN_ExChallenges/PIG_LATIN_ExChallenges/bin/Debug/PIG_LATIN_ExChallenges.pdb
+/Users/Noha/Desktop/Capstone/PIG_LATIN_ExChallenges/PIG_LATIN_ExChallenges/obj/x86/Debug/PIG_LATIN_ExChallenges.csprojAssemblyReference.cache
+/Users/Noha/Desktop/Capstone/PIG_LATIN_ExChallenges/PIG_LATIN_ExChallenges/obj/x86/Debug/PIG_LATIN_ExChallenges.csproj.CoreCompileInputs.cache
+/Users/Noha/Desktop/Capstone/PIG_LATIN_ExChallenges/PIG_LATIN_ExChallenges/obj/x86/Debug/PIG_LATIN_ExChallenges.exe
+/Users/Noha/Desktop/Capstone/PIG_LATIN_ExChallenges/PIG_LATIN_ExChallenges/obj/x86/Debug/PIG_LATIN_ExChallenges.pdb
