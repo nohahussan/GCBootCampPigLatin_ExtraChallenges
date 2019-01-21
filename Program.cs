@@ -27,7 +27,7 @@ namespace PIG_LATIN_ExChallenges
                 for (int i = 0; i < words.Length; i++)
                 {
                     string firstLetter = words[i].Substring(0, 1);//first letter in each word
-                                                                  //if a word starts with vowel add way to the end
+                    //if a word starts with vowel add way to the end
                     if (firstLetter == "a" || firstLetter == "A" || firstLetter == "e" || firstLetter == "E" || firstLetter == "i" || firstLetter == "I" || firstLetter == "o" || firstLetter == "O" || firstLetter == "u" || firstLetter == "U")
                     {
                         words[i] += "way";
@@ -52,7 +52,7 @@ namespace PIG_LATIN_ExChallenges
                             }
                             else
                             {
-                                char[] chars = { 'a', 'e', 'i', 'o', 'u' };
+                                char[] chars = { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' };//if all the letters in the word uppercase ot lowercase
                                 int indexOfFirstVowel = words[i].IndexOfAny(chars, 0);
                                 string consonants = words[i].Substring(0, indexOfFirstVowel);//store first letters before first vowel appear
                                 int lenAfterFirstVoewl = words[i].Length - consonants.Length;
